@@ -6,40 +6,63 @@ tag:
 欢迎参观**区块链博物馆**。这是你区块链入门的起点，也是流连忘返之地。祝你游览愉快！
 
 ## 人物志
+<center>中本聪
+{% asset_img satoshi.jpeg Satoshi %}
+</center>
 
-### 中本聪
-{% asset_img satoshi.jpeg 中本聪 %}
+---
+<center>吴忌寒
+{% asset_img wujihan.jpeg 吴忌寒 %}
+</center>
 
-### 吴忌寒
+---
+<center>赵长鹏
+{% asset_img cz.jpeg 赵长鹏 %}
+</center>
 
-### 赵长鹏
+---
+其他人物：
+- Vitalik Buterin
 
+## 货币简史
 
-## 史前时代
+### 史前时代
 
-### B-money
+<center>贝壳
+{% asset_img shell.jpeg 贝壳 %}
+</center>
+---
+<center>铜钱
+{% asset_img copper.jpeg 铜钱 %}
+</center>
+---
+<center>黄金
+{% asset_img gold.jpeg 黄金 %}
+</center>
+---
+<center>白银
+{% asset_img silver.jpeg 白银 %}
+</center>
+---
+<center>法币
+{% asset_img dollar.jpeg 美元 %}
+</center>
+---
 
-### Hashcash
+- B-money
+- Hashcash
 
-
-## 创世纪
+### 创世纪
 中本聪说，要有比特币，于是便有了比特币。
 
+### 币本纪
 
-## 币值风云
-
-### BTC/比特币
-
-### BCH/比特币现金
-
-### LTC/莱特币
-
-### ETH/以太坊
-
-### XRP/瑞波币
-
-### EOS/柚子
-
+- BTC/比特币
+- BCH/比特币现金
+- LTC/莱特币
+- ETH/以太坊
+- XRP/瑞波币
+- EOS/柚子
 
 ## 理论
 
