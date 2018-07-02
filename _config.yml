@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Block Chain Coach
+title: 教链慕课
 subtitle: 你掌上的区块链专家
 description: 
 keywords:
@@ -80,6 +80,7 @@ theme: yilia
 deploy:
   type: git
   repo: git@github.com:jiaolian/jlmooc.git
+  branch: master
 
 # npm i hexo-generator-json-content --save
 jsonContent:
