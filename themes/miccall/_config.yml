@@ -10,7 +10,7 @@ head:
 
 Intro:
     name: 教链
-    slogan: "Block Chain Coach at hand."
+    slogan: "Block Chain Coach at hand.<br>您身边的区块链专家。"
     HeadButton: BLOCKCHAIN COACH
 
 Nav:
@@ -39,10 +39,10 @@ Nav:
         #   link：“路径”
 
 MainFirst:
-    name: 试听课
-    description: 比特币区块链技术深度揭秘
-    pic_url: /images/firstlecture.jpg
-    goto_ulr: "https://m.weike.fm/lecture/5842267"
+    name: Featured
+    description: 区块链技术深度揭秘
+    pic_url: /img/featured.jpg
+    goto_url: "https://m.weike.fm/lecture/5842267"
 
 Gallery :
     title: Mr.metro 
