@@ -1,7 +1,5 @@
 ---
 title: 区块链精选课程
-tag:
-	- 课程
 thumbnail: /images/cover/class.jpeg
 ---
 
