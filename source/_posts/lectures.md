@@ -2,7 +2,7 @@
 title: 区块链精选课程
 tag:
 	- 课程
-thumbnail: /img/gold.jpeg
+thumbnail: /images/cover/class.jpeg
 ---
 
 - [区块链应用全解答](/lectures/lecture-blockchain-all-answers)

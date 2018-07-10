@@ -2,7 +2,7 @@
 title: 区块链博物馆
 tag:
 	- 知识体系
-thumbnail: /img/shell.jpeg
+thumbnail: /images/cover/skansen.jpeg
 ---
 欢迎参观**区块链博物馆**。这是你区块链入门的起点，也是流连忘返之地。祝你游览愉快！
 
