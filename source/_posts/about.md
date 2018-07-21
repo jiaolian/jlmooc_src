@@ -3,12 +3,12 @@ title: 关于教链
 thumbnail: /img/featured.jpg
 ---
 
-# <img width="36pt" src="/img/logo.png"> 教链
+# <img width="36pt" src="/img/logo.png"> 教链 (Blockchain Coach)
 企业级区块链教育、咨询和服务提供商
 致力于区块链技术普及的领先品牌
 
 清华大学x-lab入驻项目
-联系人：刘青焱 evan@jiaolian.in
+联系人：Evan Liu, evan@jiaolian.in
 
 ### 定位
 企业级区块链教育、咨询和服务提供商

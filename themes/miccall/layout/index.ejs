@@ -24,6 +24,7 @@
                 <!-- 文章sample  s-->
 
                 <% page.posts.each(function (post) { %>
+								<% if (post.show == true) { %>
                 <div class="6u 12u(narrower)">
                     <section class="link_box special">
                        <a href="<%- url_for(post.path) %>">
@@ -55,6 +56,7 @@
                     </section>
                 </div>
                 <!-- 文章sample  e-->
+						<% } %>
             <% }) %>
             </div>
         </section>
