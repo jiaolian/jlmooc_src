@@ -3,7 +3,7 @@ title: 区块链博物馆
 show: true
 thumbnail: /images/cover/skansen.jpeg
 ---
-Evan's Private Blockchain Knowledgebase & Collections.
+Blockchain Knowledgebase & Collections.
 
 ## 人物志
 <center>Satoshi Nakamoto (中本聪)
