@@ -28,6 +28,10 @@ Monthly base pay (Xk RMB, 1 day a week in principle) + Token (Y%)
 
 ### (2) Project-based consulting. 一次性项目顾问。
 
+For project-based consulting, we offer a comprehensive support,
+from business understanding and solution design to token launch,
+for you to apply blockchain technology and token economy to empower your business.
+
 #### Charing model: 收费模式
 By stages & packages. 分阶段灵活打包收费。
 
