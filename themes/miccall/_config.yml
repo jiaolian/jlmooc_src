@@ -30,8 +30,8 @@ Nav:
     pages:
         简介: 
             link: "/about/"
-        #团队 :
-        #    link: "/group/"
+        招聘 :
+            link: "/talent/"
         #图库 :
         #    link: "/gallery/"
         #标签:
