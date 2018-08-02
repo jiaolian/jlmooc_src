@@ -11,7 +11,7 @@ Location: Bejing.
 
 <span style="color:blue;font-weight:bold">Background</span>
 
-Block Chain Coach is aiming the leading brand in consulting services for enterprises on integrating blockchain technology and token model into their business. We also offer professional training courses on blockchain and related technologies for educating the business to help them improving their knowledge and competence on blockchain.
+Block Chain Coach is aiming the leading brand in consulting services for enterprises on integrating blockchain technology and token model into their business. We also offer professional training courses on blockchain and related technologies for educating the professionals and managers to help them improving their knowledge and competence in the blockchain domain.
 
 <span style="color:blue;font-weight:bold">Job Description</span>
 
